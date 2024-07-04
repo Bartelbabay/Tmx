@@ -1,0 +1,16 @@
+{
+    "name": "bartelbabay/tmx",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Bartelbabay\\Tmx\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nicklolay Lantinov",
+            "email": "nickolay.lantinov@gmail.com"
+        }
+    ],
+    "require": {}
+}
